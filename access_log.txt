@@ -1,0 +1,7 @@
+2026-07-13T09:15:32Z;jsmith;Microsoft Graph, PowerShell;Failure;50126
+2026-07-13T09:16:01Z;jsmith;Microsoft Graph, PowerShell;Failure;50126
+2026-07-13T09:16:45Z;jsmith;Microsoft Graph, PowerShell;Failure;50126
+2026-07-13T09:18:10Z;jsmith;Microsoft Graph, PowerShell;Failure;50126
+2026-07-13T09:19:55Z;jsmith;Microsoft Graph, PowerShell;Failure;50126
+2026-07-13T10:02:11Z;agarcia;Outlook Web App;Failure;50126
+2026-07-13T14:30:00Z;jsmith;Azure Portal;Failure;50053
